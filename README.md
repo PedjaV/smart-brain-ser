@@ -3,6 +3,6 @@
 Front end of my project
 
 How to use:
-copy image url
-paste hit detect
-And MAGIC
+1. Copy image url
+2. Paste hit detect
+3. And MAGIC
